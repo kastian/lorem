@@ -5,6 +5,7 @@ Small text filler generator.
 ## Installation
 
 `make`
+
 `sudo make install`
 
 ## Uninstallation
